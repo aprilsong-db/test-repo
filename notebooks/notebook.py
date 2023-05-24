@@ -1,4 +1,4 @@
-# Databricks notebook source
+
 # MAGIC %md
 # MAGIC here's some markdown
 
